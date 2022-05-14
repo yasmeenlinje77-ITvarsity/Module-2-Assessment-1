@@ -148,6 +148,9 @@ a.info-box{
 }
 
 /*========= WEATHER=======*/
+#main{
+     background:rgba(255, 255, 255, .8);
+}
 img.info-box-weather-icon{
      height : 30px;
      width  : 30px!important;
