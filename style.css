@@ -86,7 +86,7 @@ body{
     padding-top: 1px;
     padding-bottom: 50px;
 }
-/*================= INFO BOX ==========*/
+/*================= INFO-BOX ==========*/
 
 a.info-box{
       text-decoration : none;
@@ -124,10 +124,10 @@ a.info-box{
       height :   40px; 
 }
 
-/*========= INFO BOX FULL ==========*/
+/*========= INFO-BOX-FULL ==========*/
 
 #info-box-full{
-      background-color : rgba(255, 255, 255, .8) ;
+      background-color : rgba(255, 255, 255, .8);
       width   : 90%;
       display : block;
       margin  : auto;
@@ -164,11 +164,12 @@ h1.info-box-weather-icon{
 table{
      width: 100%;
 }
+
 td{
      border-top: 1px solid #131313;
 }
      
-     /*========== FORM ============*/
+/*========== FORM ============*/
 input{
       width: 100%;
       height: 25px;
