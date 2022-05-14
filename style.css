@@ -148,6 +148,12 @@ a.info-box{
 }
 
 /*========= WEATHER=======*/
+input{
+      width: 100%;
+      height: 25px;
+      margin : 12px 0;
+      border : 1px solid #929292;
+}
 img.info-box-weather-icon{
      height : 30px;
      width  : 30px !important;
