@@ -148,9 +148,6 @@ a.info-box{
 }
 
 /*========= WEATHER=======*/
-#main{
-     background:rgba(255, 255, 255, .8);
-}
 img.info-box-weather-icon{
      height : 30px;
      width  : 30px!important;
@@ -159,11 +156,11 @@ img.info-box-weather-icon{
 }
 
 h1.info-box-weather-icon{
-     background-color : 
      font-size  : 65px;
      font-weight: 200;
      padding    : 0;
      margin     : 0;
+}
 }
 table{
      width: 100%;
