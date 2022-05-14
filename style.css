@@ -148,15 +148,9 @@ a.info-box{
 }
 
 /*========= WEATHER=======*/
-#info-box-full{
-      background-color : rgba(255, 255, 255, .8);
-      width   : 90%;
-      display : block;
-      margin  : auto;
-      margin-top : 12px;
-      padding    : 10px;
-}
+
 img.info-box-weather-icon{
+     background      : rgba(255 ,225, 55, .8);
      height : 30px;
      width  : 30px !important;
      margin : 10px;
